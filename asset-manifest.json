@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website/static/css/main.18616020.css",
-    "main.js": "/website/static/js/main.ca13e9eb.js",
+    "main.js": "/website/static/js/main.af19bb87.js",
     "static/media/meat-cheeseburger-with-french-fries.jpg": "/website/static/media/meat-cheeseburger-with-french-fries.49a7cf2dd49ffab9ae05.jpg",
     "static/media/Fry2.png": "/website/static/media/Fry2.070081a1be12b2e7ae02.png",
     "static/media/Burger3.png": "/website/static/media/Burger3.d74043e3e0987a122655.png",
@@ -22,10 +22,10 @@
     "static/media/spicy_double_burgers.jpg": "/website/static/media/spicy_double_burgers.489e259f6bc6c46065b1.jpg",
     "index.html": "/website/index.html",
     "main.18616020.css.map": "/website/static/css/main.18616020.css.map",
-    "main.ca13e9eb.js.map": "/website/static/js/main.ca13e9eb.js.map"
+    "main.af19bb87.js.map": "/website/static/js/main.af19bb87.js.map"
   },
   "entrypoints": [
     "static/css/main.18616020.css",
-    "static/js/main.ca13e9eb.js"
+    "static/js/main.af19bb87.js"
   ]
 }
