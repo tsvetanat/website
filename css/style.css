@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Rosaio';
+    font-weight: bold;
+    src: url("../fonts/Rosario-Bold.ttf");
+
+}
+
+@font-face {
+    font-family: 'Rosario';
+    src: url("../fonts/Rosario-Regular.ttf")
+
+}
+
+@font-face {
+    font-family: 'Rosario';
+    font-style: italic;
+    src: url("../fonts/Rosario-Italic.ttf")
+
+}
+
+:root {
+   
+    --color-orange: #E38B29;
+    --color-beige: #FFD8A9;
+}
+
+
+html {
+    --color-white:#fff;
+    --color-brown:#562B08;
+    font-size: 20px;
+    
+   }
+   
+   body {
+       font-family: "Rosario", san-serif;
+       
+       margin:0;
+       padding:0;
+       
+      
+   }
+
+  
+
+   

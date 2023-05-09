@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.18616020.css",
+    "main.js": "/website/static/js/main.ca13e9eb.js",
+    "static/media/meat-cheeseburger-with-french-fries.jpg": "/website/static/media/meat-cheeseburger-with-french-fries.49a7cf2dd49ffab9ae05.jpg",
+    "static/media/Fry2.png": "/website/static/media/Fry2.070081a1be12b2e7ae02.png",
+    "static/media/Burger3.png": "/website/static/media/Burger3.d74043e3e0987a122655.png",
+    "static/media/Place Your Design.png": "/website/static/media/Place Your Design.abf279e4bf7bc75c1993.png",
+    "static/media/Burger_Combo.png": "/website/static/media/Burger_Combo.b1af3b0d896bd6b951b2.png",
+    "static/media/Burger Image 2.png": "/website/static/media/Burger Image 2.940357d7644526185ba2.png",
+    "static/media/Burger_Angus.png": "/website/static/media/Burger_Angus.95ed53b6a6c70a5371a4.png",
+    "static/media/Burger Image 1.png": "/website/static/media/Burger Image 1.4145c2582a0b50ee8c87.png",
+    "static/media/Fry1.png": "/website/static/media/Fry1.ecbe941e05dac97e745f.png",
+    "static/media/burger_ketchup.png": "/website/static/media/burger_ketchup.baf2acfb1359b2037990.png",
+    "static/media/Drink2.png": "/website/static/media/Drink2.77b62924fbe0487e2876.png",
+    "static/media/Burger2.png": "/website/static/media/Burger2.f7ddea4fa7d63932c011.png",
+    "static/media/Burger Image 3.jpg": "/website/static/media/Burger Image 3.1fe163e0f0b89c37b469.jpg",
+    "static/media/Drink3.png": "/website/static/media/Drink3.1b0fb1cbab8c045f2535.png",
+    "static/media/Burger1.png": "/website/static/media/Burger1.de5200ddf99c8db83429.png",
+    "static/media/Burger.png": "/website/static/media/Burger.6c4997ffdd288d37094d.png",
+    "static/media/Drink1.png": "/website/static/media/Drink1.e4e95007e08219f07083.png",
+    "static/media/spicy_double_burgers.jpg": "/website/static/media/spicy_double_burgers.489e259f6bc6c46065b1.jpg",
+    "index.html": "/website/index.html",
+    "main.18616020.css.map": "/website/static/css/main.18616020.css.map",
+    "main.ca13e9eb.js.map": "/website/static/js/main.ca13e9eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18616020.css",
+    "static/js/main.ca13e9eb.js"
+  ]
+}
